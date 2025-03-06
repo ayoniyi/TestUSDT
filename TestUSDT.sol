@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 /**
  * @title TestUSDT
- * @dev A test USDT token for the Sepolia testnet to be used with the escrow contract
+ 
  * This is a simplified version of USDT for testing purposes only
  */
 contract TestUSDT is ERC20, ERC20Burnable, Ownable {
