@@ -1,0 +1,13 @@
+.env
+node_modules/
+cache/
+artifacts/
+typechain/
+coverage/
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+gas-reporter.txt
+deployments/
